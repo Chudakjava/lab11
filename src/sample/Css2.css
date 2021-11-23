@@ -1,0 +1,37 @@
+
+.button {
+    -fx-border-color: #121212;
+    -fx-background-radius: 0;
+    -fx-background-color: #555555;
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-text-fill: #d8d8d8;
+
+}
+
+.button:pressed{
+        -fx-border-color: #121212;
+        -fx-background-radius: 0;
+        -fx-background-color: gold;
+        -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+        -fx-text-fill: black;
+}
+
+.text-field{
+    -fx-background-color: #A9A9A9 ;
+    -fx-border-color: black;
+    -fx-text-fill: #00FF7F;
+     -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+     -fx-font-f
+
+
+    }
+
+.radio-button{
+-fx-text-fill: white;
+
+}
+
+AnchorPane {
+-fx-background-image: url("img1.jpg");
+
+}
